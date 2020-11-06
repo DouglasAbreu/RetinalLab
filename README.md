@@ -2,6 +2,7 @@
 
 If you use this work, please cite this article:
 da Rocha, D.A., Barbosa, A.B.L., Guimarães, D.S. et al. An unsupervised approach to improve contrast and segmentation of blood vessels in retinal images using CLAHE, 2D Gabor wavelet, and morphological operations. Res. Biomed. Eng. 36, 67–75 (2020). https://doi.org/10.1007/s42600-019-00032-z
+
 Also available in https://github.com/GEPSIN/RetinalLab
 
 New version: 21/07/2019
